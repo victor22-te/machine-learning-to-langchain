@@ -53,7 +53,7 @@ Funciona simultáneamente como:
 <td><strong>Roadmap General & Plan Maestro</strong></td>
 <td align="center">12 - 18 Meses</td>
 <td align="center">~600 hrs</td>
-<td><a href="./Ruta-de-aprendizaje/00_roadmap_general.md"><strong>00_roadmap_general.md</strong></a></td>
+<td><a href="./Ruta-de-aprendizaje/00_roadmap_general/00_roadmap_general.md"><strong>00_roadmap_general.md</strong></a></td>
 <td align="center"><img src="https://img.shields.io/badge/Estado-Pendiente-2D3748?style=flat-square"/></td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ Funciona simultáneamente como:
 <td><strong>Fundamentos de Programación, Datos y Matemáticas</strong></td>
 <td align="center">10 - 12 sem</td>
 <td align="center">~120 hrs</td>
-<td><a href="./Ruta-de-aprendizaje/fase_1_fundamentos.md"><strong>fase_1_fundamentos.md</strong></a></td>
+<td><a href="./Ruta-de-aprendizaje/fase_1_fundamentos/fase_1_fundamentos.md"><strong>fase_1_fundamentos.md</strong></a></td>
 <td align="center"><img src="https://img.shields.io/badge/Estado-Pendiente-2D3748?style=flat-square"/></td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ Funciona simultáneamente como:
 <td><strong>Machine Learning Tradicional & Modelado</strong></td>
 <td align="center">10 - 12 sem</td>
 <td align="center">~120 hrs</td>
-<td><a href="./Ruta-de-aprendizaje/fase_2_machine_learning.md"><strong>fase_2_machine_learning.md</strong></a></td>
+<td><a href="./Ruta-de-aprendizaje/fase_2_machine_learning/fase_2_machine_learning.md"><strong>fase_2_machine_learning.md</strong></a></td>
 <td align="center"><img src="https://img.shields.io/badge/Estado-Pendiente-2D3748?style=flat-square"/></td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ Funciona simultáneamente como:
 <td><strong>Deep Learning, PyTorch & Procesamiento de Lenguaje (NLP)</strong></td>
 <td align="center">12 - 14 sem</td>
 <td align="center">~140 hrs</td>
-<td><a href="./Ruta-de-aprendizaje/fase_3_deep_learning_nlp.md"><strong>fase_3_deep_learning_nlp.md</strong></a></td>
+<td><a href="./Ruta-de-aprendizaje/fase_3_deep_learning_nlp/fase_3_deep_learning_nlp.md"><strong>fase_3_deep_learning_nlp.md</strong></a></td>
 <td align="center"><img src="https://img.shields.io/badge/Estado-Pendiente-2D3748?style=flat-square"/></td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ Funciona simultáneamente como:
 <td><strong>LLMs, RAG, LangChain & Agentes Autónomos</strong></td>
 <td align="center">10 - 12 sem</td>
 <td align="center">~120 hrs</td>
-<td><a href="./Ruta-de-aprendizaje/fase_4_llms_y_langchain.md"><strong>fase_4_llms_y_langchain.md</strong></a></td>
+<td><a href="./Ruta-de-aprendizaje/fase_4_llms_y_langchain/fase_4_llms_y_langchain.md"><strong>fase_4_llms_y_langchain.md</strong></a></td>
 <td align="center"><img src="https://img.shields.io/badge/Estado-Pendiente-2D3748?style=flat-square"/></td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ Funciona simultáneamente como:
 <td><strong>Despliegue Productivo, Microservicios & MLOps</strong></td>
 <td align="center">8 - 10 sem</td>
 <td align="center">~90 hrs</td>
-<td><a href="./Ruta-de-aprendizaje/fase_5_despliegue_mlops.md"><strong>fase_5_despliegue_mlops.md</strong></a></td>
+<td><a href="./Ruta-de-aprendizaje/fase_5_despliegue_mlops/fase_5_despliegue_mlops.md"><strong>fase_5_despliegue_mlops.md</strong></a></td>
 <td align="center"><img src="https://img.shields.io/badge/Estado-Pendiente-2D3748?style=flat-square"/></td>
 </tr>
 </tbody>
@@ -222,7 +222,7 @@ Funciona simultáneamente como:
 
 <img src="https://img.shields.io/badge/-%3E_.%2F05__methodology-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=38BDF8"/> &nbsp; <i>// metodología de estudio y uso</i>
 
-1. **Consulta la Hoja Central:** Inicia en [<a href="./Ruta-de-aprendizaje/00_roadmap_general.md">00_roadmap_general.md</a>](./Ruta-de-aprendizaje/00_roadmap_general.md) para tener la perspectiva global del plan de estudios.
+1. **Consulta la Hoja Central:** Inicia en [<a href="./Ruta-de-aprendizaje/00_roadmap_general/00_roadmap_general.md">00_roadmap_general.md</a>](./Ruta-de-aprendizaje/00_roadmap_general/00_roadmap_general.md) para tener la perspectiva global del plan de estudios.
 2. **Ejecuta por Fases:** Ingresa al archivo correspondiente a tu fase actual y sigue las lecturas, ejercicios y recursos indicados.
 3. **Registro de Progreso:** Modifica las casillas de verificación de `- [ ]` a `- [x]` al finalizar cada objetivo.
 4. **Construcción de Código:** Organiza tus scripts, notebooks y aplicaciones en carpetas dedicadas dentro de este repositorio para formar tu portafolio público.

@@ -5,16 +5,16 @@
 
 <br/>
 
-<a href="../README.md">
+<a href="../../README.md">
   <img src="https://img.shields.io/badge/-%E2%86%90%20README%20PRINCIPAL-0A0A0F?style=flat-square&logoColor=white&labelColor=1E293B"/>
 </a>
-<a href="./00_roadmap_general.md">
+<a href="../00_roadmap_general/00_roadmap_general.md">
   <img src="https://img.shields.io/badge/ROADMAP%20GENERAL-0A0A0F?style=flat-square&logoColor=white&labelColor=1E293B"/>
 </a>
-<a href="./fase_1_fundamentos.md">
+<a href="../fase_1_fundamentos/fase_1_fundamentos.md">
   <img src="https://img.shields.io/badge/%E2%86%90%20ANTERIOR%3A%20FASE%201-0A0A0F?style=flat-square&logoColor=white&labelColor=1E293B"/>
 </a>
-<a href="./fase_3_deep_learning_nlp.md">
+<a href="../fase_3_deep_learning_nlp/fase_3_deep_learning_nlp.md">
   <img src="https://img.shields.io/badge/SIGUIENTE%3A%20FASE%203%20%E2%86%92-0A0A0F?style=flat-square&logoColor=white&labelColor=1E293B"/>
 </a>
 

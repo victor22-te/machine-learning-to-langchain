@@ -6,13 +6,13 @@
 
 <br/>
 
-<a href="../README.md">
+<a href="../../README.md">
   <img src="https://img.shields.io/badge/-%E2%86%90%20README%20PRINCIPAL-0A0A0F?style=flat-square&logoColor=white&labelColor=1E293B"/>
 </a>
-<a href="./00_roadmap_general.md">
+<a href="../00_roadmap_general/00_roadmap_general.md">
   <img src="https://img.shields.io/badge/ROADMAP%20GENERAL-0A0A0F?style=flat-square&logoColor=white&labelColor=1E293B"/>
 </a>
-<a href="./fase_2_machine_learning.md">
+<a href="../fase_2_machine_learning/fase_2_machine_learning.md">
   <img src="https://img.shields.io/badge/SIGUIENTE%3A%20FASE%202%20%E2%86%92-0A0A0F?style=flat-square&logoColor=white&labelColor=1E293B"/>
 </a>
 
